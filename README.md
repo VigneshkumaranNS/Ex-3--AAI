@@ -1,6 +1,6 @@
 <H3> Name : Chaitanya P S</H3>
 <H3>Register No: 212222230024</H3>
-<H3> Experiment 1</H3>
+<H3> Experiment 3</H3>
 <H3>DATE:          </H3>
 <H1 ALIGN =CENTER> Implementation of Approximate Inference in Bayesian Networks
 </H1>
